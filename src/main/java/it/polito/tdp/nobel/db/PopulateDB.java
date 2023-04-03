@@ -19,7 +19,6 @@ public class PopulateDB {
 		vd.inserisciEsame(new Esame("01RKCPL", "Algebra lineare e geometria", 10, 23));
 		vd.inserisciEsame(new Esame("01PNNPL", "Crediti liberi del 1 anno", 6, 22));
 		vd.inserisciEsame(new Esame("15AXOPL", "Fisica I", 10, 21));
-
 		vd.inserisciEsame(new Esame("23ACIPL", "Analisi matematica II", 8, 23));
 		vd.inserisciEsame(new Esame("14AFQPL", "Basi di dati",  8, 27));
 		vd.inserisciEsame(new Esame("20AXPPL", "Fisica II", 6, 28));
@@ -28,7 +27,6 @@ public class PopulateDB {
 		vd.inserisciEsame(new Esame("07CESPL", "Ricerca operativa", 8, 18));
 		vd.inserisciEsame(new Esame("07CHWPL", "Sistemi di produzione", 8, 30));
 		vd.inserisciEsame(new Esame("04CIIPL", "Sistemi elettrici industriali", 8, 18));
-
 		vd.inserisciEsame(new Esame("01QNAPL", "Elementi di diritto privato", 8, 19));
 		vd.inserisciEsame(new Esame("09CBIPL", "Programmazione a oggetti", 8, 29));
 		vd.inserisciEsame(new Esame("02CBRPL", "Programmazione e gestione della produzione", 10, 30));
